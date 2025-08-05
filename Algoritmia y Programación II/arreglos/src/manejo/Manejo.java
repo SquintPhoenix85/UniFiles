@@ -46,9 +46,10 @@ public class Manejo {
             }
         } else {
             //Check failed; output error message to user
-            System.out.println("La posición "+ x + " no existe.");
+            System.out.println("The position "+ x + " doesn't exist.");
         }
     }
     
 }
+
 
