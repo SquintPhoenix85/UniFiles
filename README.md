@@ -1,3 +1,3 @@
-# Repositorio de archivos trabajados en Clase
+# Repositorio de archivos trabajados en clase
 
 
